@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Edward Yeboah
+
+I'm a recent graduate of **Stony Brook University**, where I earned a **Bachelor of Science in Technological Systems Management** with a specialization in **Computer Science**.
+
+I’m interested in software development, scripting, databases, and building practical tools that help people work smarter.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, Java, HTML, CSS, SQL, Ruby  
+**Tools & Platforms:** MySQL Workbench, Git, Bash, Adobe Suite, Google Workspace  
+**Focus Areas:** Programming, Scripting, Data Management, Quality Assurance
+
+---
+
+## 📫 Contact
+
+📍 Bronx, NY  
+📧 [edward.yeboah@stonybrook.edu](mailto:edward.yeboah@stonybrook.edu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/eyeboah03/)
