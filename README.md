@@ -22,7 +22,7 @@ I’m interested in software development, scripting, databases, and building pra
 
 This GitHub profile is a collection of my projects in automation, data management, and software design.
 
-Feel free to explore!
+Feel free to explore.
 
 ---
 
