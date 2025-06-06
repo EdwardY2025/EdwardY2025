@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#I'm Edward
+# I'm Edward
 
 A recent graduate of **Stony Brook University**, where I earned a **Bachelor of Science in Technological Systems Management** with a specialization in **Computer Science**.
 
