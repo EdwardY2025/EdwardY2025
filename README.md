@@ -20,7 +20,7 @@ A recent graduate of **Stony Brook University**, where I earned a **Bachelor of 
 
 I’m interested in software development, scripting, databases, and building practical tools that help people work smarter.
 
-This GitHub profile is a collection of my projects and experiments in automation, data management, and software design.
+This GitHub profile is a collection of my projects in automation, data management, and software design.
 
 Feel free to explore!
 
