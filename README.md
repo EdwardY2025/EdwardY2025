@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Edward Yeboah
+#I'm Edward
 
-I'm a recent graduate of **Stony Brook University**, where I earned a **Bachelor of Science in Technological Systems Management** with a specialization in **Computer Science**.
+A recent graduate of **Stony Brook University**, where I earned a **Bachelor of Science in Technological Systems Management** with a specialization in **Computer Science**.
 
 I’m interested in software development, scripting, databases, and building practical tools that help people work smarter.
 
